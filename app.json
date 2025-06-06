@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "374035",
+      "value": "23899650",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "85f3761ba2d709ff1a5a72cb32c6497b",
+      "value": "e44dde747a94beb6dcc42b1803fead26",
       "required": true
     },
     "AUTO_LEAVING_ASSISTANT": {
@@ -44,12 +44,12 @@
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "399401433",
+      "value": "5560107603",
       "required": true
     },
     "STRING_SESSION": {
       "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-      "value": "BAAFtRMAwXumNp3KvnSEA8blK_XnKfqOuZCofeH4fMz2pXSyrNVTLfA0rFShldSq9-Q-j0MZ52omm4BXNY7adpdZPeTIEpgXqa2BpHss_N9ShyOq2gIOQrUPddlZUMGNf5IaZ4DS8LyRE-pjzSYoGrg3IOkJja48wBXI1fZYAMKdxLF_AGVHE344CwkXvW4dPq0jfPvFKl5OZ__ekASXZ90ozNBIjISnQ80xqqQ0vI13tQF1WEwOK3WhV4QfL6EHTSJ4BKbmvc64VESQn7yXFTDpYPCEDSj8Qc0WZWpNZzz88gDgh7gcuHQYUznMgZsct5rBKZxW67AlGhwqfARtTS-79ulIlwAAAAF1CqufAA",
+      "value": "AgFsrgIAxxJxiyTZWrxRkXNmtqvVKmJPzjpY9R73cRy9GWJuLnMGHlVvdFMTSw6Xd9WnxAsLDSWuX20DLxYo3NDqFhL4g93F5T1eiqKqiLonkMfPsFoGxld8oQz0BqQlnzwLxcD1N1PuZ3RFWtJ75GaHVmOV5XA-hky_Wahi7_1LOORO6hiKXmGETcU1RXAY86bw9gsiVrozaeFhdgPYkkgIPCVqkRMafWBLqA0ut-TQBcRRu34OkohV-UCotLe8HM-egCaT9iwjQNCSm9gpwYPaCKky_k1smchWDeQIZ24actDkb_2EQuKTemNjOxftWJUXi6NN532EJIa0jFRcq4U-abejXAAAAAHm1kaVAA",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -70,7 +70,7 @@
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
       "value": "https://github.com/JOZANDZHO/HOOLLY.V100",
-      "required": true
+      "required": false
     },
     "UPSTREAM_BRANCH": {
       "description": "Upstream Repo's Branch Name",
