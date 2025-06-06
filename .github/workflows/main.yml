@@ -27,4 +27,4 @@ jobs:
         BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
         STRING_SESSION: ${{ secrets.STRING_SESSION }}
       run: |
-        python main.py
+        python __main__.py
